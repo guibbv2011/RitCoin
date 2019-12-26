@@ -1,5 +1,7 @@
 # RitCoin
 
+![](/src/main/res/drawable-v24/xiaomialpha.jpg)
+
   Exploring what jetpack compose makes available
 
   • Using programmatic navigation
